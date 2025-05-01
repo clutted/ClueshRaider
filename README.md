@@ -2,7 +2,7 @@
 The fast **FREE** discord raider.
 
 ## Source code???
-⭐ 200 stars
+⭐ 150 stars
 
 ## Yes, our raider will get updates. Next update at 25 stars.
 
