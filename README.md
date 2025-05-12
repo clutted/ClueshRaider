@@ -29,4 +29,4 @@ This tool is for educational purposes only.
 
 ## [Showcase (video)](https://www.youtube.com/watch?v=EJPt7jJwQCc&t=14s)
 
-<p><img src="&" alt="Screenshot"></p>
+<p><img src="https://cdn.discordapp.com/attachments/1367599000953294998/1367603866312511718/FREE_1.png?ex=6823079a&is=6821b61a&hm=18da23de7816253799d343067da5493506e126cfd415c4c50501d371a59c1b24&" alt="Screenshot"></p>
