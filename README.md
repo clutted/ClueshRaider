@@ -4,7 +4,7 @@
 
 <p align="center">
   ⚡ Cluesh  
-  The fast **FREE** discord raider.
+  The fast FREE discord raider.
 </p>
 
 ## Source code???
