@@ -3,44 +3,49 @@
 </p>
 
 <p align="center">
-  ## ⚡ Cluesh  
-  The fast **FREE** discord raider.
+  <b><span style="font-size: 30px;">⚡ Cluesh</span></b>  
+  <b><span style="font-size: 24px;">The fast <span style="font-size: 28px;">**FREE**</span> discord raider.</span></b>
 </p>
 
 <p align="center">
-  ## Source code???
-  ⭐ 150 stars
+  <b><span style="font-size: 24px;">## Source code???</span></b>
 </p>
 
 <p align="center">
-  Yes, our raider will get updates. Next update at 25 stars.
+  <b><span style="font-size: 24px;">⭐ 150 stars</span></b>
 </p>
 
 <p align="center">
-  ## 💾 Installation
-  - Install our latest release
-  - Extract the rar
-  - Add ur tokens in the `tokens.txt`
-  - Open the **"Cluesh.exe"**
-  - Enjoy!
+  <b><span style="font-size: 24px;">Yes, our raider will get updates. Next update at 25 stars.</span></b>
 </p>
 
 <p align="center">
-  # ⚠ If u don't trust the exe, try it on vm or run it on any.run 
+  <b><span style="font-size: 24px;">## 💾 Installation</span></b>
+  <ul>
+    <li>Install our latest release</li>
+    <li>Extract the rar</li>
+    <li>Add your tokens in the `tokens.txt`</li>
+    <li>Open the **"Cluesh.exe"**</li>
+    <li>Enjoy!</li>
+  </ul>
 </p>
 
 <p align="center">
-  ## ❗ Disclaimer
-  This tool is for educational purposes only.
+  <b><span style="font-size: 24px;"># ⚠ If you don't trust the exe, try it on a VM or run it on any.run</span></b>
 </p>
 
 <p align="center">
-  ## Any question? 
-  - Feel free to ask in our [Discord](https://discord.gg/pX3pQ5baFa)
+  <b><span style="font-size: 24px;">## ❗ Disclaimer</span></b>
+  <span style="font-size: 18px;">This tool is for educational purposes only.</span>
 </p>
 
 <p align="center">
-  ## [Showcase (video)](https://www.youtube.com/watch?v=EJPt7jJwQCc&t=1s)
+  <b><span style="font-size: 24px;">## Any question?</span></b>
+  <span style="font-size: 18px;">Feel free to ask in our <a href="https://discord.gg/pX3pQ5baFa">Discord</a></span>
+</p>
+
+<p align="center">
+  <b><span style="font-size: 24px;">## [Showcase (video)](https://www.youtube.com/watch?v=EJPt7jJwQCc&t=1s)</span></b>
 </p>
 
 <p align="center">
@@ -48,4 +53,3 @@
 </p>
 
 ---
-
