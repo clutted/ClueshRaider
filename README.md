@@ -4,7 +4,7 @@
 
 <p align="center">
    ⚡ Cluesh  
-  The fast **FREE** discord raider.
+  The fast FREE discord raider.
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  # ⚠ If u don't trust the exe, try it on vm or run it on any.run 
+   ⚠ If u don't trust the exe, try it on vm or run it on any.run 
 </p>
 
 <p align="center">
@@ -44,7 +44,7 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1367599000953294998/1367599212035969214/image.png?ex=68152b84&is=6813da04&hm=f7a8e2b524a57ad960b9f96697884c3e841693e23dbdf7c5745e0a680522446d&" alt="Screenshot">
+  <img src="https://cdn.discordapp.com/attachments/1367599000953294998/1367603866312511718/FREE_1.png?ex=6823079a&is=6821b61a&hm=18da23de7816253799d343067da5493506e126cfd415c4c50501d371a59c1b24&&" alt="Screenshot">
 </p>
 
 ---
