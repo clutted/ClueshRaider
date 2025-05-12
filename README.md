@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1367599000953294998/1371521269908115538/ing.png?ex=68237038&is=68221eb8&hm=bc3e7effb44a6b9cfcdff6fc051735336bbdf4682748ad54b58394f7af48fbae&" alt="Centered Image">
+  <img src="https://cdn.discordapp.com/attachments/1367599000953294998/1371521269908115538/ing.png?ex=68237038&is=68221eb8&hm=bc3e7effb44a6b9cfcdff6fc051735336bbdf4682748ad54b58394f7af48fbae&" alt="Centered Image" width="300">
 </div>
 
 ## ⚡ Cluesh Raider
