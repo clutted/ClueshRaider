@@ -3,49 +3,44 @@
 </p>
 
 <p align="center">
-  <b><span style="font-size: 30px;">⚡ Cluesh</span></b>  
-  <b><span style="font-size: 24px;">The fast <span style="font-size: 28px;">**FREE**</span> discord raider.</span></b>
+   ⚡ Cluesh  
+  The fast **FREE** discord raider.
 </p>
 
 <p align="center">
-  <b><span style="font-size: 24px;">## Source code???</span></b>
+   Source code???
+  ⭐ 150 stars
 </p>
 
 <p align="center">
-  <b><span style="font-size: 24px;">⭐ 150 stars</span></b>
+  Yes, our raider will get updates. Next update at 25 stars.
 </p>
 
 <p align="center">
-  <b><span style="font-size: 24px;">Yes, our raider will get updates. Next update at 25 stars.</span></b>
+  💾 Installation
+  - Install our latest release
+  - Extract the rar
+  - Add ur tokens in the `tokens.txt`
+  - Open the **"Cluesh.exe"**
+  - Enjoy!
 </p>
 
 <p align="center">
-  <b><span style="font-size: 24px;">## 💾 Installation</span></b>
-  <ul>
-    <li>Install our latest release</li>
-    <li>Extract the rar</li>
-    <li>Add your tokens in the `tokens.txt`</li>
-    <li>Open the **"Cluesh.exe"**</li>
-    <li>Enjoy!</li>
-  </ul>
+  # ⚠ If u don't trust the exe, try it on vm or run it on any.run 
 </p>
 
 <p align="center">
-  <b><span style="font-size: 24px;"># ⚠ If you don't trust the exe, try it on a VM or run it on any.run</span></b>
+   ❗ Disclaimer
+  This tool is for educational purposes only.
 </p>
 
 <p align="center">
-  <b><span style="font-size: 24px;">## ❗ Disclaimer</span></b>
-  <span style="font-size: 18px;">This tool is for educational purposes only.</span>
+   Any question? 
+  - Feel free to ask in our [Discord](https://discord.gg/pX3pQ5baFa)
 </p>
 
 <p align="center">
-  <b><span style="font-size: 24px;">## Any question?</span></b>
-  <span style="font-size: 18px;">Feel free to ask in our <a href="https://discord.gg/pX3pQ5baFa">Discord</a></span>
-</p>
-
-<p align="center">
-  <b><span style="font-size: 24px;">## [Showcase (video)](https://www.youtube.com/watch?v=EJPt7jJwQCc&t=1s)</span></b>
+   [Showcase (video)](https://www.youtube.com/watch?v=EJPt7jJwQCc&t=1s)
 </p>
 
 <p align="center">
@@ -53,3 +48,4 @@
 </p>
 
 ---
+
